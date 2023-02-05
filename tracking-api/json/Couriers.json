@@ -1,0 +1,46 @@
+{
+    "list":[    
+    {
+      "key": "shopee-express",
+      "name" : "ช้อปปี้ เอ็กซ์เพรส",
+      "color": "#F14613",
+      "imageURL": "https://fast.etrackings.com/courier/shopee-express.jpg"
+    },
+    {
+      "key": "kerry-express",
+      "name" : "เคอรี่ เอ็กซ์เพรส",
+      "color": "#FB8523",
+      "imageURL": "https://fast.etrackings.com/courier/kerry-express.jpg"
+    },
+    {
+      "key": "flash-express",
+      "name" : "แฟลช เอ็กซ์เพรส",
+      "color": "#FFD21A",
+      "imageURL": "https://fast.etrackings.com/courier/flash-express.png"
+    },
+    {
+      "key": "jt-express",
+      "name" : "เจแอนด์ที เอ็กซ์เพรส",
+      "color": "#FE1B3A",
+      "imageURL": "https://fast.etrackings.com/courier/jt-express.jpg"
+    },
+    {
+      "key": "ninja-van",
+      "name" : "นินจาแวน",
+      "color": "#D50037",
+      "imageURL": "https://fast.etrackings.com/courier/ninja-van.png"
+    },
+    {
+      "key": "dhl-ecommerce",
+      "name" : "ดีเอชแอล อีคอมเมิร์ซ",
+      "color": "#F5BA00",
+      "imageURL": "https://fast.etrackings.com/courier/dhl-ecommerce.png"
+    },
+    {
+      "key": "thailand-post",
+      "name" : "ไปรษณีย์ไทย",
+      "color": "#EC0000",
+      "imageURL": "https://assets.aftership.com/couriers/svg/thailand-post.svg"
+    }
+  ]
+}
